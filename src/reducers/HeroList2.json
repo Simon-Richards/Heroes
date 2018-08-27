@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "photo_url": "https://firebasestorage.googleapis.com/v0/b/heroes-329b8.appspot.com/o/ragnar.jpg?alt=media&token=d28e9c01-27a2-42f1-a750-39dece06d5d8",
+        "name": "Ragnar Lodbrok",
+        "description": "Look for this type of hero if you like Viking Warriors. He might spend time away from home, but he'll always come back with gold."
+    },
+    {
+        "id": 1,
+        "photo_url": "https://firebasestorage.googleapis.com/v0/b/heroes-329b8.appspot.com/o/batman.jpg?alt=media&token=361c4986-b412-4dc0-ba98-860fffe1913c",
+        "name": "Batman",
+        "description": "This is the hero for you if you like fast cars, danger and a nocturnal lifestyle."
+    },
+    {
+        "id": 2,
+        "photo_url": "https://firebasestorage.googleapis.com/v0/b/heroes-329b8.appspot.com/o/ironman.jpg?alt=media&token=a209724a-c33e-45c7-9123-da14fe22d2e4",
+        "name": "Ironman",
+        "description": "With this hero you'll have great adventures and you'll witness all the wonders of science!"
+    },
+    {
+        "id": 3,
+        "photo_url": "https://firebasestorage.googleapis.com/v0/b/heroes-329b8.appspot.com/o/goku.jpg?alt=media&token=a97474b8-4a13-43d7-bf03-4536953c1f59",
+        "name": "Young Goku",
+        "description": "This type of hero is on a great path. Choose one and watch his destiny unfold!"
+    }
+    
+]

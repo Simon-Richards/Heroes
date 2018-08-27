@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "photo_url": "https://firebasestorage.googleapis.com/v0/b/heroes-329b8.appspot.com/o/ragnar.jpg?alt=media&token=d28e9c01-27a2-42f1-a750-39dece06d5d8",
+        "name": "Ragnar Lodbrok",
+        "description": "You are this type of hero if you have a long beard, a Nordic name and are in command of many men."
+    },
+    {
+        "id": 1,
+        "photo_url": "https://firebasestorage.googleapis.com/v0/b/heroes-329b8.appspot.com/o/batman.jpg?alt=media&token=361c4986-b412-4dc0-ba98-860fffe1913c",
+        "name": "Batman",
+        "description": "You're tall and strong. When you're not fighting crime you're living the billionaire lifestyle, for example going on sailing holidays."
+    },
+    {
+        "id": 2,
+        "photo_url": "https://firebasestorage.googleapis.com/v0/b/heroes-329b8.appspot.com/o/ironman.jpg?alt=media&token=a209724a-c33e-45c7-9123-da14fe22d2e4",
+        "name": "Ironman",
+        "description": "You work with technology and understand the natural world. You're an expert in your field and might even have a PhD"
+    },
+    {
+        "id": 3,
+        "photo_url": "https://firebasestorage.googleapis.com/v0/b/heroes-329b8.appspot.com/o/goku.jpg?alt=media&token=a97474b8-4a13-43d7-bf03-4536953c1f59",
+        "name": "Young Goku",
+        "description": "You're a hero with great potential. You learn new things in just one week."
+    }
+    
+]
